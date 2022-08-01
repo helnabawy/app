@@ -1,0 +1,57 @@
+[
+  {
+    "id": "123a4ea4-1ee8-4b7a-a250-8c6d94de986f",
+    "name": "التراخيص",
+    "numberOfQuestions": 16
+  },
+  {
+    "id": "77e5a372-685e-451c-a386-20ef353501bf",
+    "name": "التنفيذ",
+    "numberOfQuestions": 83
+  },
+  {
+    "id": "7fc360d2-f372-4923-905f-f136093155c6",
+    "name": "الحالات الاجتماعية",
+    "numberOfQuestions": 32
+  },
+  {
+    "id": "d33bd365-9f7e-4ae2-b846-df6673c4cb24",
+    "name": "الرهون والعقارات",
+    "numberOfQuestions": 38
+  },
+  {
+    "id": "935e83dc-5902-4641-83f0-bffffd411fd7",
+    "name": "القضاء",
+    "numberOfQuestions": 43
+  },
+  {
+    "id": "929a5867-815b-43dd-9b98-249a830f6a22",
+    "name": "المحاكم التجارية",
+    "numberOfQuestions": 11
+  },
+  {
+    "id": "44ea7fd3-1f73-4be2-b956-7d92f7d1cb35",
+    "name": "الوكالات والإقرارات",
+    "numberOfQuestions": 48
+  },
+  {
+    "id": "ced3a799-d06b-4b39-9473-c711997e10d9",
+    "name": "خدمات التحقق",
+    "numberOfQuestions": 1
+  },
+  {
+    "id": "2503eca7-0841-4ccd-9cc2-9d0dde80f0c3",
+    "name": "عامة",
+    "numberOfQuestions": 41
+  },
+  {
+    "id": "cb6a37d7-bbe8-4cee-9779-e3f03ebfb98d",
+    "name": "عقود الزواج",
+    "numberOfQuestions": 12
+  },
+  {
+    "id": "677a88a6-ffaa-40ee-9e3e-7f3c3a4e2ff6",
+    "name": "محاكم التنفيذ",
+    "numberOfQuestions": 14
+  }
+]
